@@ -1,0 +1,12 @@
+{
+  "base_url": "https://api.openai.com/v1/",
+  "api_key": "",
+  "model": "gpt-4o",
+  "temperature": 0.2,
+  "max_tokens": 10000,
+  "timeout": 300,
+  "alvadesc_exe": "",
+  "alvadesc_wrapper_path": "",
+  "descriptor_names": "VE3sign_D/Dt\nVE1sign_Dz(v)\nVE1sign_B(p)\nMATS3p\nGATS6i\nGATS7s\nP_VSA_charge_4\nP_VSA_charge_7\nSpMAD_EA(ri)\nSpDiam_AEA(ed)\nSM10_AEA(dm)\nnN(CO)2\nC-016\nH-052\nCATS2D_05_DA\nCATS2D_09_DA\nCATS2D_03_DL\nCATS2D_05_DL\nCATS2D_06_DL\nCATS2D_04_AA\nB09[O-O]\nF05[N-N]\nF07[N-O]\nF10[O-O]",
+  "reference_db_path": ""
+}
